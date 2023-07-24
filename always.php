@@ -1,5 +1,5 @@
 <?php
-//////////////////////////////////////////////   Soal 1   ////////////////////////////////////////////////////////
+//////////////////////////////////////////////   Soal 1   ///////////////////////////////////////////////////////
 // Andi kebingungan cara memfilter isi array menjadi bilangan genap, bantu andi untuk menyelesaikan masalahnya.//
 //                                                                                                             //
 // Contoh:                                                                                                     // 
