@@ -5,6 +5,4 @@
 
 $technoclub = ["T", "E", "C", "H", "N", "O", "C", "L", "U", "B"];
 
-// isi code disini
-//       |
-//       v
+// code here
